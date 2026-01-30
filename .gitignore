@@ -1,0 +1,41 @@
+# Kubernetes
+*.kubeconfig
+kubeconfig
+kubeconfig.yaml
+kubeconfig.yml
+.kube/
+secrets/
+secrets.yaml
+secrets.yml
+
+# Local development
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
